@@ -28,6 +28,7 @@
     {"id":{"name":"sp_Wall","path":"sprites/sp_Wall/sp_Wall.yy",},"order":0,},
     {"id":{"name":"obj_startButton","path":"objects/obj_startButton/obj_startButton.yy",},"order":0,},
     {"id":{"name":"Sp_Rm_win","path":"sprites/Sp_Rm_win/Sp_Rm_win.yy",},"order":4,},
+    {"id":{"name":"test_sprite","path":"sprites/test_sprite/test_sprite.yy",},"order":15,},
     {"id":{"name":"obj_goto_lose","path":"objects/obj_goto_lose/obj_goto_lose.yy",},"order":2,},
     {"id":{"name":"sp_Submarine","path":"sprites/sp_Submarine/sp_Submarine.yy",},"order":1,},
     {"id":{"name":"sp_Instructions","path":"sprites/sp_Instructions/sp_Instructions.yy",},"order":7,},
