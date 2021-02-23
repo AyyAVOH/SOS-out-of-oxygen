@@ -84,8 +84,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"99eb701e-2d41-4245-8a5b-1fcc64212e96","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "tSubmarinerSaveAgain",
-    "path": "tSubmarinerSaveAgain.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "sp_barrier",
