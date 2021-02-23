@@ -25,7 +25,7 @@
     "path": "tSubmarinerSaveAgain.yyp",
   },
   "resourceVersion": "1.0",
-  "name": "object_test",
+  "name": "DontHurtMe",
   "tags": [],
   "resourceType": "GMObject",
 }
