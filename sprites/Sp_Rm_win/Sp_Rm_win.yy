@@ -25,11 +25,9 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"624e0d22-953f-45e0-b568-bb2f1ac4b996","path":"sprites/Sp_Rm_win/Sp_Rm_win.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"624e0d22-953f-45e0-b568-bb2f1ac4b996","path":"sprites/Sp_Rm_win/Sp_Rm_win.yy",},"LayerId":{"name":"14b03de6-18c4-4981-80ce-2624dd416ed7","path":"sprites/Sp_Rm_win/Sp_Rm_win.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"624e0d22-953f-45e0-b568-bb2f1ac4b996","path":"sprites/Sp_Rm_win/Sp_Rm_win.yy",},"LayerId":{"name":"f50f1cbb-00c2-4334-8334-b5e3403d116d","path":"sprites/Sp_Rm_win/Sp_Rm_win.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"624e0d22-953f-45e0-b568-bb2f1ac4b996","path":"sprites/Sp_Rm_win/Sp_Rm_win.yy",},"LayerId":{"name":"0b78c042-ebdb-4c21-aded-339082ea8f96","path":"sprites/Sp_Rm_win/Sp_Rm_win.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"624e0d22-953f-45e0-b568-bb2f1ac4b996","path":"sprites/Sp_Rm_win/Sp_Rm_win.yy",},"LayerId":{"name":"43114c4e-cc23-416c-a8a7-07cf44997f73","path":"sprites/Sp_Rm_win/Sp_Rm_win.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"624e0d22-953f-45e0-b568-bb2f1ac4b996","path":"sprites/Sp_Rm_win/Sp_Rm_win.yy",},"LayerId":{"name":"48958127-86f4-4db3-a461-a05330884575","path":"sprites/Sp_Rm_win/Sp_Rm_win.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"624e0d22-953f-45e0-b568-bb2f1ac4b996","path":"sprites/Sp_Rm_win/Sp_Rm_win.yy",},"LayerId":{"name":"14b03de6-18c4-4981-80ce-2624dd416ed7","path":"sprites/Sp_Rm_win/Sp_Rm_win.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Sp_Rm_win","path":"sprites/Sp_Rm_win/Sp_Rm_win.yy",},"resourceVersion":"1.0","name":"624e0d22-953f-45e0-b568-bb2f1ac4b996","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
