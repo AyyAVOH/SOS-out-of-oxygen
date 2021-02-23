@@ -25,7 +25,7 @@
     "path": "tSubmarinerSaveAgain.yyp",
   },
   "resourceVersion": "1.0",
-  "name": "dummy_object",
+  "name": "dum_obj",
   "tags": [],
   "resourceType": "GMObject",
 }
