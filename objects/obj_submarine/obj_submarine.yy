@@ -25,6 +25,7 @@
     {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_submarine","path":"objects/obj_submarine/obj_submarine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_can","path":"objects/obj_can/obj_can.yy",},"parent":{"name":"obj_submarine","path":"objects/obj_submarine/obj_submarine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"parent":{"name":"obj_submarine","path":"objects/obj_submarine/obj_submarine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":64,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_submarine","path":"objects/obj_submarine/obj_submarine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
