@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "sp_Cannon",
+    "path": "sprites/sp_Cannon/sp_Cannon.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
